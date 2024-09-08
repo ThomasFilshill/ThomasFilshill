@@ -61,7 +61,7 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 ### 🔍 [**Refer**](https://cardinalrefer.com)
 - **Role**: Co-founder & Developer
 - **Tech Stack**: Python, TypeScript, PostgreSQL, AWS, Terraform
-- Built an ML system integrating **deep learning**, **NLP**, **vector embeddings**, and **genetic algorithms** for **job matching**.
+- Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job matching**.
 - Raised $2.6MM in funding and partnered with 300+ companies. 🚀
 
 ### ⚽️ [**SportsGuru.io**](https://web.sportsguru.io)
@@ -90,5 +90,3 @@ Feel free to reach out for collaborations, questions, or opportunities!
 💼 [LinkedIn](https://linkedin.com/in/thomasfilshill)
 
 ---
-
-_“Lets use technology to free time to do the things we love”_ 💻
