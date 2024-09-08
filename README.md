@@ -50,12 +50,6 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 
 ---
 
-## 🚀 Currently Working On
-- Enhancing **Refer** with real-time job recommendations using **Reinforcement Learning**.
-- Deep diving into **Vector Databases** and **Retrieval-Augmented Generation (RAG)** systems.
-
----
-
 ## 🎓 Education
 - **B.S. in Computer Science**, Georgia Tech (2022 - 2026)
 - **Full Scholarship Recipient** 
@@ -72,4 +66,4 @@ Feel free to reach out for collaborations, questions, or opportunities!
 
 ---
 
-_“Striving for excellence in every line of code I write.”_ 💻
+_“Lets use technology to free time to do the things we love”_ 💻
