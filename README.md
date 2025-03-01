@@ -5,9 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:thomasfilshill@gatech.edu)
 
 ## 👨‍💻 About Me
-I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia Tech** 🎓 (full scholarship!) with concentrations in **Intelligence** and **People**. I love building intelligent systems and tackling real-world problems through **machine learning** and **software development**. My goal is to build scalable, impactful solutions at the intersection of AI, tech, and business.
+I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia Tech** 🎓 with concentrations in **Intelligence** and **People**. I love building intelligent systems and tackling real-world problems through **software development**. My goal is to build scalable, impactful solutions at the intersection of AI, tech, and business.
 
-📊 My work spans **deep learning**, **full stack**, **cloud architecture**, and much more.
+📊 My work spans **machine learning**, **full stack**, **cloud architecture**, and much more.
 
 ---
 
@@ -60,12 +60,12 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 
 ### 🔍 [**Refer**](https://cardinalrefer.com)
 - **Role**: Co-founder & Developer
-- **Tech Stack**: Python, TypeScript, PostgreSQL, AWS, Terraform
-- Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job matching**.
+- **Tech Stack**: Python, Next.js, TypeScript, PostgreSQL, AWS
+- Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job-candidate matching**.
 - Raised $2.6MM in funding and partnered with 300+ companies. 🚀
 
 ### ⚽️ [**SportsGuru.io**](https://web.sportsguru.io)
-- **Role**: Software Developer (part-time)
+- **Role**: Software Developer
 - Developed an **LSTM Recurrent Neural Network** for predicting **soccer matches**.
 - Built REST APIs and a **React-based platform** with AWS deployment.
 
