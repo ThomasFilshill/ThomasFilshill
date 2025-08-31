@@ -70,8 +70,8 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 - Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job-candidate matching**.
 - Raised $2.6MM in funding and partnered with 300+ companies. 🚀
 
-### ⚽️ [**SportsGuru.io**](https://web.sportsguru.io)
-- **Role**: Software Developer
+###  [**Unica**]
+- **Role**: Software Developer Intern then Lead ML Engineer
 - Developed an **LSTM Recurrent Neural Network** for predicting **soccer matches**.
 - Built REST APIs and a **React-based platform** with AWS deployment.
 
