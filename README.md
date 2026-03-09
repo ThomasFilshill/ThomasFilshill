@@ -58,10 +58,9 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 
 ## 🌟 Projects
 
-### 🔍 [**ProSieve**](https://prosieve.com)
+### 🔍 [**Alia**](https://usealia.com)
 - **Role**: Founder and CEO
-- **Tech Stack**: Python, Next.js, AWS, ML
-- Raised $600k angel round with NXTP, a16z Scout Fund, 1616 Ventures.
+- Raised $600k angel round with NXTP, a16z Scout Fund, 1616 Ventures, Nameless Partners and achieved a $14MM valuation.
 - Onboarded pilot enterprise customers.
 
 ### 🔍 [**Refer**](https://cardinalrefer.com)
