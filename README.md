@@ -64,7 +64,7 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 - Onboarded pilot enterprise customers.
 
 ### 🔍 [**Refer**](https://cardinalrefer.com)
-- **Role**: Co-founder & AI Developer
+- **Role**: First hire and GenAI Engineer
 - **Tech Stack**: Python, Next.js, TypeScript, PostgreSQL, AWS
 - Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job-candidate matching**.
 - Raised $2.6MM in funding and partnered with 300+ companies. 🚀
