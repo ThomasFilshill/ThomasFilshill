@@ -60,19 +60,17 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 
 ### 🔍 [**Alia**](https://usealia.com)
 - **Role**: Founder and CEO
-- Raised $600k angel round with NXTP, a16z Scout Fund, 1616 Ventures, Nameless Partners and achieved a $14MM valuation.
-- Onboarded pilot enterprise customers.
+- Raised $650k+ w/ NXTP, 1616 Ventures, Nameless Partners and a handful of exceptional founders, and achieved a $14MM valuation.
+- Brought an exceptional team combining expertise in AI with scaling organizations
+- Live with design partners.
 
 ### 🔍 [**Refer**](https://cardinalrefer.com)
 - **Role**: First hire and GenAI Engineer
 - **Tech Stack**: Python, Next.js, TypeScript, PostgreSQL, AWS
 - Built an ML system integrating **deep learning**, **NLP**, and **vector embeddings** for **job-candidate matching**.
-- Raised $2.6MM in funding and partnered with 300+ companies. 🚀
 
 ###  [**Unica**]
 - **Role**: Software Developer Intern then Lead ML Engineer
-- Developed an **LSTM Recurrent Neural Network** for predicting **soccer matches**.
-- Built REST APIs and a **React-based platform** with AWS deployment.
 
 ### 📚 [**CodeKids Brazil**]
 - Taught **Python** algorithms to underserved students in São Paulo public schools.
@@ -81,7 +79,7 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 ---
 
 ## 🎓 Education
-- **B.S. in Computer Science**, Georgia Tech (2022 - 2026)
+- **B.S. in Computer Science**, Georgia Tech (Aug 2022 - May 2026)
 - **Full Scholarship Recipient** 
 - GPA: **3.8/4**
 
@@ -90,8 +88,7 @@ I'm **Thomas Filshill**, a passionate **Computer Science** student at **Georgia 
 ## 📫 Contact Me
 Feel free to reach out for collaborations, questions, or opportunities!  
 
-📧 Email: [thomasfilshill@gatech.edu](mailto:thomasfilshill@gatech.edu)  
-🌐 [Personal Website](https://thomasfilshill.com)  
+📧 Email: [thomasfilshill@gmail.com](mailto:thomasfilshill@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/thomasfilshill)
 
 ---
